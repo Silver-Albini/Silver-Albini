@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**Silver-Albini/Silver-Albini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Albini!
 
-Here are some ideas to get you started:
+<p align="center">
+  <strong>Developer • Student • Tech Enthusiast</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌟 [GeoFS Best Add-ons](https://github.com/Silver-Albini/GeoFS-Best-Addons)
+I've put every add-on I use into this project. It's also my first project.
+
+- ✨ Have the best add-ons for GeoFS in just **one** click!
+- ⚡ Learn how to use Tampermonkey correctly!
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Silver-Albini?cardType=level&theme=github-dark" alt="GitHub Stats" />
+</p>
+
+---
+
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Silver-Albini">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
