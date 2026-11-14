@@ -48,11 +48,5 @@ A complete reference guide and field manual for GeoFS pilots.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Silver-Albini?cardType=level&theme=github-dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=Silver-Albini&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver-Albini&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
