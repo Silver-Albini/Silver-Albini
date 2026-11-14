@@ -1,27 +1,47 @@
-
-# 👋 Hey, I'm Albini!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Albini!+%F0%9F%91%8B;Developer+%26+Student;GeoFS+Enthusiast+%E2%9C%88%EF%B8%8F" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <strong>Developer • Student • Tech Enthusiast • Coder at Coddy • GeoFS Freak</strong>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,vscode" />
+  <img src="https://komarev.com/ghpvc/?username=Silver-Albini&label=Profile%20Views&color=38BDF8&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" alt="Tech Stack" />
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 ### 🌟 [GeoFS Best Add-ons](https://github.com/Silver-Albini/GeoFS-Best-Addons)
-I've put every add-on I use on GeoFS into this project. It's also my first project.
+My very first GitHub project! A curated collection of the best Tampermonkey scripts I use in GeoFS, organized so anyone can install them easily.
+- ✨ Load all essential GeoFS add-ons in **one** click with the All-In-One loader.
+- ⚡ Step-by-step checklist to set up Tampermonkey without hassle.
 
-- ✨ Have the best add-ons for GeoFS in just **one** click!
-- ⚡ Learn how to use Tampermonkey correctly!
+### ✈️ [GeoFS Flight Manual](https://github.com/Silver-Albini/GeoFS-Flight-Manual)
+A complete reference guide and field manual for GeoFS pilots.
+- 📖 Full keyboard shortcut tables and aircraft speed ($V_R$, cruise, landing) cheat sheets.
+- 🛬 Step-by-step Autopilot & ILS landing guides plus browser FPS tips.
+
+---
+
+## 🛫 My GeoFS Flight Setup
+
+| Category | Favorite / Setup |
+| :--- | :--- |
+| **Favorite Aircraft** | Boeing 737-800 / Airbus A320 *(feel free to edit!)* |
+| **Home Airport** | EBBR — Brussels Airport *(feel free to edit!)* |
+| **Must-Have Add-ons** | GeoFS Pro, LiverySelector & Better NAV Map |
+| **Preferred Flight Style** | Short-haul IFR & ILS Approaches |
 
 ---
 
@@ -31,18 +51,8 @@ I've put every add-on I use on GeoFS into this project. It's also my first proje
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Silver-Albini?cardType=level&theme=github-dark" alt="GitHub Stats" />
 </p>
 
----
-
-
-## 🤝 Connect With Me
-
 <p align="center">
-  <a href="https://github.com/Silver-Albini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://coddy.tech/refer?ref=xbzpSldKEyYt">
-   <img src="https://storage.googleapis.com/coddy-15505.appspot.com/public/coddy-logo-trans.png" alt="Coddy logo" width="80">
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=Silver-Albini&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Silver-Albini&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
 </p>
