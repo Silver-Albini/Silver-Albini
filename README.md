@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Albini!
 
 <p align="center">
-  <strong>Developer • Student • Tech Enthusiast</strong>
+  <strong>Developer • Student • Tech Enthusiast • Coder at Coddy • GeoFS Freak</strong>
 </p>
 
 ---
@@ -15,10 +15,10 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🌟 [GeoFS Best Add-ons](https://github.com/Silver-Albini/GeoFS-Best-Addons)
-I've put every add-on I use into this project. It's also my first project.
+I've put every add-on I use on GeoFS into this project. It's also my first project.
 
 - ✨ Have the best add-ons for GeoFS in just **one** click!
 - ⚡ Learn how to use Tampermonkey correctly!
