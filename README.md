@@ -41,3 +41,8 @@ I've put every add-on I use into this project. It's also my first project.
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <a href="https://coddy.tech/refer?ref=xbzpSldKEyYt">
+   <img src="https://storage.googleapis.com/coddy-15505.appspot.com/public/coddy-logo-trans.png" alt="Coddy logo" width="80">
+  </a>
+</p>
