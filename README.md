@@ -38,8 +38,8 @@ A complete reference guide and field manual for GeoFS pilots.
 
 | Category | Favorite / Setup |
 | :--- | :--- |
-| **Favorite Aircraft** | Boeing 737-800 / Airbus A320 *(feel free to edit!)* |
-| **Home Airport** | EBBR — Brussels Airport *(feel free to edit!)* |
+| **Favorite Aircraft** | Sukhoi SU-35 |
+| **Home Airport** | EHAM Amsterdam Airport Schiphol |
 | **Must-Have Add-ons** | GeoFS Pro, LiverySelector & Better NAV Map |
 | **Preferred Flight Style** | Short-haul IFR & ILS Approaches |
 
